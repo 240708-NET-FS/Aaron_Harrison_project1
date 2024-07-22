@@ -1,0 +1,6 @@
+C:\Users\aharr\Aaron_Harrison_project1\project1_AH\obj\Debug\net8.0\project1_AH.csproj.AssemblyReference.cache
+C:\Users\aharr\Aaron_Harrison_project1\project1_AH\obj\Debug\net8.0\project1_AH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aharr\Aaron_Harrison_project1\project1_AH\obj\Debug\net8.0\project1_AH.AssemblyInfoInputs.cache
+C:\Users\aharr\Aaron_Harrison_project1\project1_AH\obj\Debug\net8.0\project1_AH.AssemblyInfo.cs
+C:\Users\aharr\Aaron_Harrison_project1\project1_AH\obj\Debug\net8.0\project1_AH.csproj.CoreCompileInputs.cache
+C:\Users\aharr\Aaron_Harrison_project1\project1_AH\obj\Debug\net8.0\project1_AH.sourcelink.json
