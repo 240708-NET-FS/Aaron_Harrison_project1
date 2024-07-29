@@ -13,7 +13,7 @@ namespace AaronH_project1
             // Setup dependency injection
             var serviceProvider = new ServiceCollection()
                 .AddDbContext<ApplicationDbContext>(options => 
-                    options.UseSqlServer("Server=tcp:dotnet2fsai2024.database.windows.net,1433;Initial Catalog=BookTrackerDB;Persist Security Info=False;User ID=AHarr_Revature;Password=c+&VKM&@az!V[FtVTwU;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"))
+                    options.UseSqlServer("DefaultConnection"))
                 .AddScoped<BookService>()
                 .BuildServiceProvider();
 
